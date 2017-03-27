@@ -1,0 +1,9 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "description": "This is to test react, yay! ",
+  "main": "index.js",
+  "repository": "https://github.com/alissa-taylor/react-test.git",
+  "author": "Alissa Taylor",
+  "license": "MIT"
+}
