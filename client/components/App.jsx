@@ -2,12 +2,14 @@
     ./client/components/App.jsx
 */
 import React from 'react';
+require('./app.scss');
 
 export default class App extends React.Component {
   render() {
     return (
-     <div style={{textAlign: 'center'}}>
-        <h1>Hello World</h1>
+     <div>
+        <h1>Hello :)
+        </h1>
       </div>);
   }
 }
